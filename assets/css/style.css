@@ -159,7 +159,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
 }
 .slider .text-content{
     position: absolute;
@@ -173,10 +173,11 @@ html {
     font-weight: 700;
     font-size: 24px;
 }
-.slider .text-descriptiom{
+.slider .text-description{
     font-weight: 500;
     font-size: 15px;
     margin-top: 25px;
+    text-shadow: 0 0 1px #000;
 }
 
 /* -------------------------------------------------------- */
