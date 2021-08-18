@@ -53,6 +53,9 @@ html {
     display: inline-block;
     margin-top: 15px;
     border: none;
+    /*cho nút send tren safari*/
+    appearance: none;
+    -webkit-appearance: none;
 }
 .btn:hover{
     cursor: pointer;
